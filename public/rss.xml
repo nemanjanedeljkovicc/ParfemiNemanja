@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Parfemi Nemanja</title>
+        <link>http://localhost/</link>
+        <description>Najnoviji proizvodi i ponuda parfema na sajtu Parfemi Nemanja.</description>
+        <language>sr-RS</language>
+        <lastBuildDate>Fri, 03 Apr 2026 00:53:00 +0200</lastBuildDate>
+
+        <item>
+            <title>Ancestry</title>
+            <link>http://localhost/shop/details/1</link>
+            <description>Byredo - Parfem od 100ml, cena 85.00 EUR.</description>
+            <pubDate>Fri, 03 Apr 2026 00:25:16 +0200</pubDate>
+            <guid>http://localhost/shop/details/1</guid>
+        </item>
+
+        <item>
+            <title>Bal d`afrique</title>
+            <link>http://localhost/shop/details/2</link>
+            <description>Narciso - Parfem od 50ml, cena 130.00 EUR.</description>
+            <pubDate>Fri, 03 Apr 2026 00:25:16 +0200</pubDate>
+            <guid>http://localhost/shop/details/2</guid>
+        </item>
+
+        <item>
+            <title>Black Opium</title>
+            <link>http://localhost/shop/details/3</link>
+            <description>YSL - Parfem od 100ml, cena 85.00 EUR.</description>
+            <pubDate>Fri, 03 Apr 2026 00:25:16 +0200</pubDate>
+            <guid>http://localhost/shop/details/3</guid>
+        </item>
+
+        <item>
+            <title>Bleu de Chanel</title>
+            <link>http://localhost/shop/details/4</link>
+            <description>Chanel - Parfem od 30ml, cena 130.00 EUR.</description>
+            <pubDate>Fri, 03 Apr 2026 00:25:16 +0200</pubDate>
+            <guid>http://localhost/shop/details/4</guid>
+        </item>
+    </channel>
+</rss>

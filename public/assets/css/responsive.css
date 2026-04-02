@@ -1,0 +1,1463 @@
+@media (max-width: 1199px) {
+    #picture-main {
+        max-width: 320px;
+    }
+    .overlay-text h2 {
+        font-size: 32px;
+    }
+    .overlay-text h3 {
+        font-size: 21px;
+    }
+    .heading {
+        font-size: 28px;
+    }
+    .card-around {
+        min-height: 230px;
+    }
+    .card-picture {
+        max-width: 190px;
+        height: 190px;
+    }
+    .contact-title, .auth-heading {
+        font-size: 32px;
+    }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+    .shop-page .card-item .btn,
+    .shop-page .card-item .btn-dark,
+    .shop-page .card-item .btn-outline-secondary {
+        font-size: 12px !important;
+        padding: 6px 10px !important;
+    }
+    .shop-page .card-button {
+        gap: 6px !important;
+    }
+}
+@media (max-width: 991px) {
+    .sidebar {
+        width: 100%;
+        height: auto;
+        position: static;
+        padding-bottom: 12px;
+    }
+
+    .sidebar h4 {
+        font-size: 20px;
+        margin-bottom: 0;
+    }
+
+    .sidebar a {
+        padding: 10px 16px;
+        font-size: 14px;
+    }
+
+    .content {
+        margin-left: 0;
+        padding: 18px 16px;
+    }
+
+    .content .container,
+    .content .container-fluid {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .content h2 {
+        font-size: 26px;
+    }
+
+    .content h4,
+    .content h5 {
+        font-size: 18px;
+    }
+
+    .content .d-flex.justify-content-between.align-items-center.mb-3 {
+        gap: 12px;
+        flex-wrap: wrap;
+    }
+
+    .content .table {
+        min-width: 760px;
+        font-size: 13px;
+        white-space: nowrap;
+    }
+
+    .content .table th,
+    .content .table td {
+        padding: 10px 8px;
+    }
+
+    .content .row.g-3.mb-4 {
+        row-gap: 12px;
+    }
+
+    .content .btn,
+    .content form button,
+    .content input,
+    .content select,
+    .content textarea {
+        font-size: 14px !important;
+    }
+
+    .navbar-nav.align-items-center .nav-item .btn-dark.nav-action-btn {
+        font-size: 12px !important;
+        padding: 5px 10px !important;
+        border-radius: 20px !important;
+        line-height: 1.2;
+    }
+
+    .author-shell {
+        padding-top: 32px;
+        padding-bottom: 32px;
+    }
+    .author-hero {
+        margin-bottom: 20px;
+    }
+    .author-badge,
+    .author-content-badge {
+        font-size: 11px;
+        padding: 6px 10px;
+    }
+    .author-title {
+        font-size: 28px;
+        margin-bottom: 9px;
+    }
+    .author-subtitle,
+    .author-lead,
+    .author-text,
+    .author-info-card p {
+        font-size: 13px;
+        line-height: 1.6;
+    }
+    .author-card {
+        padding: 24px;
+        border-radius: 20px;
+    }
+    .author-image-wrap {
+        padding: 16px;
+        border-radius: 18px;
+    }
+    .author-name {
+        font-size: 28px;
+        margin-bottom: 10px;
+    }
+    .author-highlight-card {
+        padding: 12px 14px;
+        border-radius: 14px;
+    }
+    .author-highlight-icon {
+        width: 38px;
+        height: 38px;
+        font-size: 14px;
+    }
+    .author-highlight-label {
+        font-size: 11px;
+    }
+    .author-info-card {
+        padding: 20px 18px;
+        border-radius: 18px;
+    }
+    .author-info-card h3 {
+        font-size: 18px;
+    }
+    .navbar-brand span {
+        font-size: 14px !important;
+    }
+    body {
+        font-size: 15px;
+    }
+    .btn, button, input, select, textarea {
+        font-size: 14px !important;
+    }
+    .btn {
+        padding: 8px 16px;
+    }
+    .home-cta-btn {
+        font-size: 13px !important;
+        padding: 7px 15px !important;
+        width: auto !important;
+        min-width: 0;
+        display: inline-block;
+    }
+    .navbar-nav.align-items-center .nav-action-btn {
+        font-size: 14px !important;
+        padding: 8px 15px !important;
+        min-height: auto;
+        width: auto !important;
+        min-width: 0;
+        display: inline-block;
+    }
+    #picture-main {
+        max-width: 260px;
+    }
+    .navbar {
+        padding-top: 14px !important;
+        padding-bottom: 14px !important;
+    }
+    .navbar-brand {
+        max-width: calc(100% - 64px);
+    }
+    .navbar-brand img {
+        max-height: 34px;
+        width: auto;
+    }
+    .navbar-collapse {
+        margin-top: 16px;
+        padding-top: 16px;
+        border-top: 1px solid #ece7df;
+    }
+    .navbar-nav.mx-auto {
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+    }
+    .navbar-nav .nav-item {
+        width: 100%;
+    }
+    .navbar-nav .nav-link {
+        display: inline-flex;
+        width: 100%;
+        padding: 10px 0;
+        font-size: 13px !important;
+    }
+    .navbar-nav.align-items-center {
+        align-items: flex-start !important;
+        gap: 10px;
+        margin-top: 14px;
+    }
+    .navbar-nav.align-items-center .nav-item, .navbar-nav.align-items-center form,
+    .navbar-nav.align-items-center form button {
+        width: auto;
+    }
+
+    .navbar-nav.align-items-center .nav-link.position-relative {
+        width: auto;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        padding: 8px 12px;
+        font-size: 13px !important;
+    }
+
+    #cart-count {
+        font-size: 10px !important;
+        min-width: 18px;
+        height: 18px;
+        padding: 0 5px !important;
+        line-height: 18px;
+        top: 8px !important;
+        left: calc(100% - 4px) !important;
+        transform: translate(-50%, -50%) !important;
+    }
+
+    .navbar-nav.align-items-center .btn,
+    .navbar-nav.align-items-center form button {
+        justify-content: center;
+        font-size: 13px !important;
+        padding: 7px 12px !important;
+        width: auto !important;
+        min-width: 0 !important;
+    }
+
+    .navbar-nav.align-items-center .nav-action-btn,
+    .navbar-nav.align-items-center .nav-link.fw-semibold {
+        font-size: 13px !important;
+        padding-top: 7px !important;
+        padding-bottom: 7px !important;
+    }
+
+    .navbar-nav.align-items-center .fa-bag-shopping,
+    .navbar-nav.align-items-center .fa-user {
+        font-size: 15px !important;
+    }
+    .overlay-text {
+        padding: 24px;
+    }
+    .overlay-text h2 {
+        font-size: 29px;
+    }
+    .overlay-text h3 {
+        font-size: 19px;
+    }
+    .overlay-text p {
+        max-width: 520px;
+        font-size: 15px;
+    }
+    .heading {
+        margin-top: 56px;
+        margin-bottom: 24px;
+        font-size: 25px;
+    }
+    .main {
+        margin-top: 40px !important;
+        margin-bottom: 40px !important;
+    }
+    .hero-title {
+        font-size: 28px;
+    }
+    .hero-subtitle {
+        font-size: 16px;
+    }
+    .card-item .card-body {
+        padding: 16px 14px 14px;
+    }
+    .card-item {
+        max-width: 280px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .card-around {
+        min-height: 200px;
+        padding: 14px;
+    }
+    .card-picture {
+        max-width: 160px;
+        height: 160px;
+        padding: 12px;
+    }
+    .card-item .card-title {
+        font-size: 15px;
+        margin-bottom: 7px;
+    }
+    .card-item .text-muted.small, .card-item .rating-number,
+    .old-price {
+        font-size: 13px;
+    }
+    .new-price {
+        font-size: 16px;
+    }
+    .shop-page {
+        padding-top: 8px;
+        padding-bottom: 24px;
+    }
+    .shop-page .row {
+        row-gap: 16px;
+    }
+    .shop-filter-card {
+        position: static;
+        padding: 16px !important;
+        border-radius: 18px;
+    }
+    .shop-filter-header h4 {
+        font-size: 18px;
+        margin-bottom: 6px;
+    }
+    .shop-filter-header p, .shop-check span, .shop-filter-input,
+    .shop-page .pagination .page-link {
+        font-size: 13px !important;
+    }
+    .shop-filter-badge {
+        font-size: 11px;
+        padding: 5px 10px;
+    }
+    .shop-filter-group h5 {
+        font-size: 13px;
+        margin-bottom: 9px;
+    }
+    .shop-check {
+        gap: 8px;
+        padding: 5px 0;
+    }
+    .shop-filter-divider {
+        margin: 12px 0;
+    }
+    .shop-filter-actions {
+        gap: 8px;
+        margin-top: 14px;
+    }
+    .cart-section {
+        overflow-x: hidden;
+    }
+    .cart-section .table {
+        min-width: 760px;
+    }
+    .cart-section .table-responsive,
+    .cart-box {
+        overflow-x: auto;
+    }
+    .checkout-wrapper, .contact-shell,
+    .auth-shell {
+        padding-top: 32px;
+        padding-bottom: 32px;
+    }
+    .contact-card,
+    .auth-card {
+        overflow: hidden;
+    }
+    .contact-shell {
+        padding-top: 32px;
+        padding-bottom: 32px;
+    }
+    .contact-hero {
+        margin-bottom: 20px;
+    }
+    .contact-badge {
+        font-size: 11px;
+        padding: 6px 10px;
+    }
+    .contact-title {
+        font-size: 28px;
+        margin-bottom: 9px;
+    }
+    .contact-subtitle, .contact-panel-header p, .contact-form-header p,
+    .contact-map-subtitle {
+        font-size: 13px;
+        line-height: 1.6;
+    }
+    .contact-alert {
+        margin-bottom: 16px;
+        border-radius: 12px;
+    }
+    .contact-card,
+    .contact-map-card {
+        border-radius: 20px;
+    }
+    .contact-panel {
+        padding: 20px 16px;
+    }
+    .contact-panel-header h3, .contact-form-header h3,
+    .contact-map-title {
+        font-size: 20px;
+        margin-bottom: 7px;
+    }
+    .contact-form-header {
+        margin-bottom: 16px;
+    }
+    .contact-info-stack {
+        gap: 10px;
+    }
+    .contact-info-card {
+        gap: 10px;
+        padding: 12px 14px;
+        border-radius: 14px;
+    }
+    .contact-info-icon {
+        width: 38px;
+        height: 38px;
+        font-size: 14px;
+    }
+    .contact-info-label, .contact-label {
+        font-size: 12px;
+    }
+    .contact-info-card strong {
+        font-size: 13px;
+    }
+    .contact-form-group {
+        margin-bottom: 14px;
+    }
+    .contact-input {
+        height: 44px;
+    }
+    .contact-input, .contact-textarea {
+        font-size: 13px !important;
+        border-radius: 12px;
+    }
+    .contact-textarea {
+        min-height: 120px;
+        padding-top: 10px;
+    }
+    .contact-submit-btn {
+        font-size: 13px !important;
+        padding: 7px 14px !important;
+    }
+    .contact-map-card {
+        padding: 16px;
+    }
+    .contact-map-frame {
+        border-radius: 16px;
+    }
+    .auth-shell {
+        padding-top: 32px;
+        padding-bottom: 32px;
+        min-height: auto;
+    }
+    .auth-card {
+        border-radius: 20px;
+    }
+    .auth-panel {
+        padding: 20px 16px;
+    }
+    .auth-badge {
+        font-size: 11px;
+        padding: 6px 10px;
+    }
+    .auth-heading {
+        font-size: 23px;
+        margin-bottom: 9px;
+    }
+    .auth-subtext, .auth-form-header p, .auth-switch-text,
+    .auth-feature-item span {
+        font-size: 13px;
+        line-height: 1.6;
+    }
+    .auth-feature-list {
+        gap: 10px;
+    }
+    .auth-feature-item {
+        gap: 10px;
+    }
+    .auth-feature-item i {
+        width: 32px;
+        height: 32px;
+        font-size: 13px;
+    }
+    .auth-form-header {
+        margin-bottom: 16px;
+    }
+    .auth-form-header h3 {
+        font-size: 19px;
+        margin-bottom: 6px;
+    }
+    .auth-form-group {
+        margin-bottom: 14px;
+    }
+    .auth-label {
+        font-size: 12px;
+    }
+    .auth-input {
+        height: 44px;
+        font-size: 13px !important;
+        border-radius: 12px;
+    }
+    .auth-submit-btn {
+        font-size: 13px !important;
+        padding: 7px 14px !important;
+        margin-top: 8px;
+    }
+    .auth-alert {
+        border-radius: 12px;
+    }
+    footer .row > div {
+        text-align: center;
+    }
+    footer .text-md-end {
+        text-align: center !important;
+        margin-top: 16px;
+    }
+    footer h5, footer h6 {
+        font-size: 15px;
+    }
+    footer p, footer a {
+        font-size: 13px;
+    }
+}
+@media (max-width: 767px) {
+    .author-shell {
+        padding-top: 24px;
+        padding-bottom: 24px;
+    }
+    .author-badge,
+    .author-content-badge {
+        font-size: 10px;
+        padding: 5px 9px;
+    }
+    .author-title {
+        font-size: 22px;
+    }
+    .author-card {
+        padding: 16px;
+        border-radius: 16px;
+    }
+    .author-image-wrap {
+        padding: 12px;
+        border-radius: 16px;
+    }
+    .author-name {
+        font-size: 20px;
+    }
+    .author-subtitle,
+    .author-lead,
+    .author-text,
+    .author-info-card p {
+        font-size: 12px;
+    }
+    .author-highlight-card {
+        gap: 10px;
+        padding: 10px 12px;
+    }
+    .author-highlight-icon {
+        width: 34px;
+        height: 34px;
+        font-size: 13px;
+    }
+    .author-highlight-label {
+        font-size: 10px;
+    }
+    .author-info-card {
+        padding: 16px 14px;
+    }
+    .author-info-card h3 {
+        font-size: 16px;
+    }
+    .navbar-brand span {
+        font-size: 13px !important;
+    }
+    body {
+        font-size: 14px;
+    }
+    .btn, button, input, select, textarea {
+        font-size: 13px !important;
+    }
+    .btn {
+        padding: 7px 14px;
+        border-radius: 999px;
+    }
+    .home-cta-btn {
+        font-size: 12px !important;
+        padding: 6px 13px !important;
+        width: auto !important;
+        min-width: 0;
+        display: inline-block;
+    }
+    .navbar-nav.align-items-center .nav-action-btn {
+        font-size: 13px !important;
+        padding: 7px 13px !important;
+        width: auto !important;
+        min-width: 0;
+        display: inline-block;
+    }
+    #picture-main {
+        max-width: 210px;
+    }
+    .navbar-toggler {
+        padding: 6px 9px;
+        border-radius: 12px;
+    }
+    .navbar-brand img {
+        max-height: 28px;
+    }
+    body {
+        overflow-x: hidden;
+    }
+    .container-fluid,
+    .container {
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+    .bg-dark.border-bottom.py-2.small .row > div {
+        text-align: center !important;
+    }
+    .img-home img {
+        min-height: 240px;
+        object-fit: cover;
+    }
+    .overlay-text {
+        padding: 20px;
+    }
+    .overlay-text h2 {
+        font-size: 24px;
+        margin-bottom: 8px !important;
+    }
+    .overlay-text h3 {
+        font-size: 16px;
+        margin-bottom: 8px !important;
+    }
+    .overlay-text p {
+        font-size: 14px;
+        line-height: 1.5;
+    }
+    .heading {
+        font-size: 21px;
+        letter-spacing: 0.04em;
+    }
+    .heading span::after {
+        bottom: -4px;
+    }
+    .card-around {
+        min-height: 180px;
+        padding: 12px;
+    }
+    .card-picture {
+        max-width: 135px;
+        height: 135px;
+        padding: 10px;
+    }
+    .card-badge {
+        top: 14px;
+        right: 14px;
+        width: 38px;
+        height: 38px;
+    }
+    .card-item .card-title {
+        font-size: 14px;
+    }
+    .card-item .card-body {
+        padding: 14px 12px 12px;
+    }
+    .card-item .text-muted.small,
+    .card-item .rating-number,
+    .old-price {
+        font-size: 12px;
+    }
+    .new-price {
+        font-size: 15px;
+    }
+    .card-choose {
+        padding: 22px 18px;
+    }
+    .brand-logo {
+        height: 84px;
+    }
+    .shop-page {
+        margin-top: 24px !important;
+        padding-top: 0;
+    }
+    .shop-page .col-md-4, .shop-page .col-md-8 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .shop-filter-card {
+        padding: 14px !important;
+    }
+    .shop-filter-header h4 {
+        font-size: 16px;
+    }
+    .shop-filter-header p, .shop-check span, .shop-filter-input,
+    .shop-page .pagination .page-link {
+        font-size: 12px !important;
+    }
+    .shop-filter-group h5 {
+        font-size: 12px;
+    }
+    .contact-shell {
+        padding-top: 24px;
+        padding-bottom: 24px;
+    }
+    .contact-badge {
+        font-size: 10px;
+        padding: 5px 9px;
+    }
+    .contact-title {
+        font-size: 22px;
+    }
+    .contact-subtitle, .contact-panel-header p, .contact-form-header p,
+    .contact-map-subtitle {
+        font-size: 12px;
+    }
+    .contact-card,
+    .contact-map-card {
+        border-radius: 16px;
+    }
+    .contact-panel {
+        padding: 16px 14px !important;
+    }
+    .contact-panel-header h3, .contact-form-header h3,
+    .contact-map-title {
+        font-size: 17px;
+    }
+    .contact-info-card {
+        padding: 10px 12px;
+    }
+    .contact-info-icon {
+        width: 34px;
+        height: 34px;
+        font-size: 13px;
+    }
+    .contact-info-label, .contact-label, .contact-info-card strong, .contact-input,
+    .contact-textarea {
+        font-size: 12px !important;
+    }
+    .contact-input {
+        height: 40px;
+    }
+    .contact-textarea {
+        min-height: 104px;
+    }
+    .contact-submit-btn {
+        font-size: 12px !important;
+        padding: 6px 12px !important;
+    }
+    .contact-map-card {
+        padding: 14px;
+    }
+    .auth-shell {
+        padding-top: 24px;
+        padding-bottom: 24px;
+    }
+    .auth-card {
+        border-radius: 16px;
+    }
+    .auth-panel {
+        padding: 16px 14px !important;
+    }
+    .auth-badge {
+        font-size: 10px;
+        padding: 5px 9px;
+    }
+    .auth-heading {
+        font-size: 19px;
+    }
+    .auth-subtext, .auth-form-header p, .auth-switch-text, .auth-feature-item span,
+    .auth-input {
+        font-size: 12px !important;
+    }
+    .auth-feature-item i {
+        width: 28px;
+        height: 28px;
+        font-size: 12px;
+    }
+    .auth-form-header h3 {
+        font-size: 16px;
+    }
+    .auth-label {
+        font-size: 11px;
+    }
+    .auth-input {
+        height: 40px;
+    }
+    .auth-submit-btn {
+        font-size: 12px !important;
+        padding: 6px 12px !important;
+    }
+    .shop-filter-card, .checkout-left .card-body, .checkout-right .card-body, .contact-panel,
+    .auth-panel {
+        padding: 24px !important;
+    }
+    .contact-title, .auth-heading {
+        font-size: 26px;
+    }
+    .contact-subtitle, .auth-subtext {
+        font-size: 15px;
+    }
+    .contact-info-card, .auth-feature-item {
+        align-items: flex-start;
+    }
+    .details-card .row {
+        row-gap: 16px;
+    }
+    .details-title {
+        font-size: 24px;
+    }
+    .details-grid {
+        grid-template-columns: 1fr !important;
+    }
+    .cart-box {
+        padding-bottom: 8px;
+    }
+    .cart-picture {
+        width: 60px;
+        height: 60px;
+        object-fit: contain;
+    }
+    .cart-quantity {
+        min-width: 120px;
+    }
+    .checkout-product {
+        gap: 12px;
+        align-items: flex-start !important;
+    }
+    footer {
+        padding-top: 48px !important;
+    }
+    footer h5, footer h6 {
+        font-size: 14px;
+    }
+    footer p, footer a {
+        font-size: 12px;
+    }
+}
+@media (max-width: 575px) {
+    .author-badge,
+    .author-content-badge {
+        font-size: 9px;
+        padding: 4px 8px;
+    }
+    .author-title,
+    .author-name {
+        font-size: 16px;
+    }
+    .author-subtitle,
+    .author-lead,
+    .author-text,
+    .author-info-card p {
+        font-size: 11px;
+    }
+    .author-card {
+        padding: 12px;
+    }
+    .author-image-wrap {
+        padding: 10px;
+    }
+    .author-highlight-card {
+        padding: 8px 10px;
+        border-radius: 12px;
+    }
+    .author-highlight-icon {
+        width: 30px;
+        height: 30px;
+        font-size: 12px;
+    }
+    .author-highlight-label {
+        font-size: 9px;
+    }
+    .author-info-card {
+        padding: 14px 12px;
+        border-radius: 16px;
+    }
+    .author-info-card h3 {
+        font-size: 15px;
+    }
+    body {
+        font-size: 14px;
+    }
+    .btn, button, input, select, textarea {
+        font-size: 12px !important;
+    }
+    .btn {
+        padding: 6px 12px;
+    }
+    .home-cta-btn {
+        font-size: 11px !important;
+        padding: 5px 11px !important;
+        width: auto !important;
+        min-width: 0;
+        display: inline-block;
+    }
+    .navbar-nav.align-items-center .nav-action-btn {
+        font-size: 12px !important;
+        padding: 6px 12px !important;
+        width: auto !important;
+        min-width: 0;
+        display: inline-block;
+    }
+    #picture-main {
+        max-width: 160px;
+    }
+    .container-fluid,
+    .container {
+        padding-left: 12px;
+        padding-right: 12px;
+    }
+    .img-home img {
+        min-height: 150px;
+        max-height: 150px;
+        border-radius: 8px;
+    }
+    .overlay-text {
+        padding: 14px;
+    }
+    .card-around {
+        min-height: 145px;
+        padding: 8px;
+    }
+    .card-picture {
+        max-width: 100px;
+        height: 100px;
+        padding: 6px;
+    }
+    .card-item .card-body {
+        padding: 14px 12px 12px;
+    }
+    .card-item .card-title {
+        font-size: 14px;
+        margin-bottom: 6px;
+    }
+    .old-price, .card-item .text-muted.small,
+    .card-item .rating-number {
+        font-size: 12px;
+    }
+    .new-price {
+        font-size: 15px;
+    }
+    .card-price {
+        min-height: 42px;
+    }
+    .card-badge {
+        width: 32px;
+        height: 32px;
+        top: 10px;
+        right: 10px;
+        font-size: 13px;
+    }
+    .navbar-brand span {
+        font-size: 12px !important;
+    }
+    .navbar-brand img {
+        max-height: 24px;
+    }
+    .overlay-text h2 {
+        font-size: 16px;
+        margin-bottom: 4px !important;
+    }
+    .overlay-text h3 {
+        font-size: 12px;
+        margin-bottom: 4px !important;
+    }
+    .overlay-text p {
+        font-size: 11px;
+        line-height: 1.35;
+    }
+    .main .btn, .shop-filter-actions .btn, .contact-submit-btn, .auth-submit-btn, .checkout-wrapper .btn,   .cart-section .btn {
+        width: 100%;
+    }
+    .row > [class*='col-'] {
+        margin-bottom: 16px;
+    }
+    .row > [class*='col-'] {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .heading {
+        font-size: 16px;
+        margin-top: 32px;
+        margin-bottom: 16px;
+    }
+    .brand-logo {
+        height: 64px;
+    }
+    .contact-title, .auth-heading, .details-title,
+    .checkout-wrapper h2,
+    .checkout-wrapper h3 {
+        font-size: 18px;
+    }
+    .hero-title, .contact-subtitle, .auth-subtext, .hero-subtitle, .card-choose p, footer p, footer a, .checkout-wrapper, .contact-panel,
+    .auth-panel {
+        font-size: 14px;
+    }
+    .card-choose {
+        padding: 18px 14px;
+    }
+    .choose-icon {
+        width: 46px;
+        height: 46px;
+        font-size: 16px;
+        margin-bottom: 12px;
+    }
+    .card-choose h4 {
+        font-size: 15px;
+        margin-bottom: 8px;
+    }
+    .contact-map-frame iframe {
+        height: 220px !important;
+    }
+    .shop-filter-card {
+        padding: 13px !important;
+        border-radius: 16px;
+    }
+    .shop-filter-header h4 {
+        font-size: 15px;
+    }
+    .shop-filter-header p, .shop-check span, .shop-filter-input,
+    .shop-page .pagination .page-link {
+        font-size: 11px !important;
+    }
+    .shop-filter-badge {
+        font-size: 10px;
+        padding: 4px 8px;
+    }
+    .shop-filter-group h5 {
+        font-size: 11px;
+    }
+    .contact-badge {
+        font-size: 9px;
+        padding: 4px 8px;
+    }
+    .contact-title, .contact-map-title {
+        font-size: 16px;
+    }
+    .contact-panel-header h3, .contact-form-header h3 {
+        font-size: 15px;
+    }
+    .contact-subtitle, .contact-panel-header p, .contact-form-header p, .contact-map-subtitle, .contact-info-card strong, .contact-input,
+    .contact-textarea {
+        font-size: 11px !important;
+    }
+    .contact-info-label, .contact-label {
+        font-size: 10px !important;
+    }
+    .contact-panel {
+        padding: 14px 12px !important;
+    }
+    .contact-info-card {
+        gap: 8px;
+        padding: 8px 10px;
+        border-radius: 12px;
+    }
+    .contact-info-icon {
+        width: 30px;
+        height: 30px;
+        font-size: 12px;
+    }
+    .contact-input {
+        height: 36px;
+    }
+    .contact-textarea {
+        min-height: 92px;
+    }
+    .contact-submit-btn {
+        font-size: 11px !important;
+        padding: 5px 11px !important;
+    }
+    .contact-map-card {
+        padding: 12px;
+    }
+    .auth-badge {
+        font-size: 9px;
+        padding: 4px 8px;
+    }
+    .auth-heading {
+        font-size: 16px;
+    }
+    .auth-form-header h3 {
+        font-size: 14px;
+    }
+    .auth-subtext, .auth-form-header p, .auth-switch-text, .auth-feature-item span,
+    .auth-input {
+        font-size: 11px !important;
+    }
+    .auth-label {
+        font-size: 10px;
+    }
+    .auth-panel {
+        padding: 14px 12px !important;
+    }
+    .auth-feature-list {
+        gap: 8px;
+    }
+    .auth-feature-item {
+        gap: 8px;
+    }
+    .auth-feature-item i {
+        width: 24px;
+        height: 24px;
+        font-size: 11px;
+    }
+    .auth-input {
+        height: 36px;
+    }
+    .auth-submit-btn {
+        font-size: 11px !important;
+        padding: 5px 11px !important;
+    }
+    .cart-section .table {
+        min-width: 680px;
+    }
+    footer h5, footer h6 {
+        font-size: 13px;
+    }
+    footer p,footer a {
+        font-size: 11px;
+    }
+    footer .btn-floating {
+        width: 42px;
+        height: 42px;
+        padding: 0;
+        line-height: 42px;
+    }
+}
+
+
+
+
+@media (max-width: 767px) {
+    .author-shell {
+        padding-top: 26px;
+        padding-bottom: 26px;
+    }
+
+    .author-title {
+        font-size: 24px !important;
+        line-height: 1.2;
+    }
+
+    .author-name {
+        font-size: 24px !important;
+        line-height: 1.2;
+    }
+
+    .author-subtitle {
+        font-size: 14px !important;
+        line-height: 1.65;
+    }
+
+    .author-card {
+        padding: 18px !important;
+        border-radius: 18px;
+    }
+
+    .author-image-wrap {
+        padding: 12px !important;
+        border-radius: 16px;
+    }
+
+    .author-image {
+        max-height: 300px !important;
+    }
+
+    .author-highlight-card {
+        padding: 10px 12px !important;
+    }
+
+    .author-highlight-card strong {
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 575px) {
+    .sidebar h4 {
+        font-size: 18px;
+    }
+
+    .sidebar a {
+        padding: 9px 14px;
+        font-size: 13px;
+    }
+
+    .content {
+        padding: 14px 12px;
+    }
+
+    .content h2 {
+        font-size: 22px;
+    }
+
+    .content h4,
+    .content h5 {
+        font-size: 16px;
+    }
+
+    .content .table {
+        min-width: 680px;
+        font-size: 12px;
+        white-space: nowrap;
+    }
+
+    .content .table th,
+    .content .table td {
+        padding: 8px 6px;
+    }
+
+    .content .btn,
+    .content form button {
+        font-size: 13px !important;
+        padding: 7px 12px !important;
+    }
+
+    .author-title {
+        font-size: 21px !important;
+    }
+
+    .author-name {
+        font-size: 21px !important;
+    }
+
+    .author-subtitle {
+        font-size: 13px !important;
+    }
+
+    .author-image {
+        max-height: 240px !important;
+    }
+
+    .author-highlight-label {
+        font-size: 10px !important;
+    }
+
+    .author-highlight-card strong {
+        font-size: 13px;
+    }
+}
+
+@media (max-width: 360px) {
+    .sidebar h4 {
+        font-size: 16px;
+    }
+
+    .sidebar a {
+        padding: 8px 12px;
+        font-size: 12px;
+    }
+
+    .content {
+        padding: 12px 10px;
+    }
+
+    .content h2 {
+        font-size: 20px;
+    }
+
+    .content .btn,
+    .content form button {
+        font-size: 12px !important;
+        padding: 6px 10px !important;
+    }
+
+    .content .table {
+        font-size: 11px;
+        white-space: nowrap;
+    }
+
+    .content .table th,
+    .content .table td {
+        padding: 7px 5px;
+    }
+
+    .navbar-nav.align-items-center .nav-item .btn-dark.nav-action-btn {
+        font-size: 11px !important;
+        padding: 4px 9px !important;
+    }
+
+    .author-shell {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    .author-title {
+        font-size: 18px !important;
+    }
+
+    .author-name {
+        font-size: 18px !important;
+        margin-bottom: 8px !important;
+    }
+
+    .author-subtitle {
+        font-size: 12px !important;
+        line-height: 1.55;
+    }
+
+    .author-badge,
+    .author-content-badge {
+        font-size: 9px !important;
+        padding: 4px 7px !important;
+    }
+
+    .author-card {
+        padding: 14px !important;
+        border-radius: 16px;
+    }
+
+    .author-image-wrap {
+        padding: 10px !important;
+    }
+
+    .author-image {
+        max-height: 210px !important;
+    }
+
+    .author-highlights {
+        gap: 8px;
+        margin: 16px 0;
+    }
+
+    .author-highlight-card {
+        gap: 10px;
+        padding: 9px 10px !important;
+        border-radius: 12px;
+    }
+
+    .author-highlight-icon {
+        width: 30px !important;
+        height: 30px !important;
+        font-size: 11px !important;
+        flex: 0 0 30px;
+    }
+
+    .author-highlight-label {
+        font-size: 9px !important;
+        margin-bottom: 2px;
+    }
+
+    .author-highlight-card strong {
+        font-size: 11px !important;
+        line-height: 1.4;
+        word-break: break-word;
+        overflow-wrap: anywhere;
+    }
+
+    .navbar-nav.align-items-center .nav-link.position-relative {
+        padding: 8px 12px;
+    }
+
+    #cart-count {
+        font-size: 9px !important;
+        min-width: 16px;
+        height: 16px;
+        line-height: 16px;
+        top: 7px !important;
+        left: calc(100% - 2px) !important;
+    }
+
+    .navbar-brand span {
+        font-size: 12px !important;
+    }
+
+    .navbar-brand img {
+        max-height: 28px !important;
+    }
+
+    .navbar-nav .nav-link {
+        font-size: 12px !important;
+        padding: 8px 0;
+    }
+
+    .navbar-nav.align-items-center {
+        gap: 8px;
+        align-items: flex-start !important;
+    }
+
+    .navbar-nav.align-items-center .btn,
+    .navbar-nav.align-items-center form button,
+    .navbar-nav.align-items-center .nav-action-btn,
+    .navbar-nav.align-items-center .nav-link.fw-semibold {
+        font-size: 12px !important;
+        padding: 6px 10px !important;
+    }
+
+    .navbar-nav.align-items-center .fa-bag-shopping,
+    .navbar-nav.align-items-center .fa-user {
+        font-size: 14px !important;
+    }
+}
+
+@media (max-width: 768px) {
+    .content .table-responsive {
+        overflow-x: visible;
+    }
+
+    .content .table {
+        min-width: 0 !important;
+        white-space: normal !important;
+        border: 0;
+        background: transparent;
+    }
+
+    .content .table thead {
+        display: none;
+    }
+
+    .content .table tbody,
+    .content .table tr,
+    .content .table td,
+    .content .table th {
+        display: block;
+        width: 100%;
+    }
+
+    .content .table tr {
+        margin-bottom: 14px;
+        background: #fff;
+        border: 1px solid #e7ddd0;
+        border-radius: 14px;
+        padding: 8px 10px;
+        box-shadow: 0 8px 20px rgba(0,0,0,0.05);
+    }
+
+    .content .table td,
+    .content .table th {
+        border: 0 !important;
+        padding: 7px 0;
+        text-align: left !important;
+        white-space: normal !important;
+    }
+
+    .content .table td[data-label]::before {
+        content: attr(data-label);
+        display: block;
+        margin-bottom: 4px;
+        font-size: 11px;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.06em;
+        color: #8a7a66;
+    }
+}
