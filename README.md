@@ -27,7 +27,7 @@ npm -v
 ## 2. Kloniranje repozitorijuma
 
 ```bash
-git clone <URL_TVOG_REPOZITORIJUMA>
+git clone  https://github.com/nemanjanedeljkovicc/ParfemiNemanja.git
 cd ParfemiNemanja
 ```
 
